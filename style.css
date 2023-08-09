@@ -15,3 +15,8 @@
 .footer{
     background-color: palegoldenrod;
 }
+
+p{
+    background-color: firebrick;
+    font-size: 16px;
+}
